@@ -1,0 +1,13 @@
+/* CSS for Ben B.'s Book Club App, By Chi Zeng, CS179, Spring 2012 */
+
+.formError {
+    color: #f00;
+}
+
+.error {
+    color: #f00 !important;
+}
+
+.bookTitle {
+    text-decoration: underline;
+}
